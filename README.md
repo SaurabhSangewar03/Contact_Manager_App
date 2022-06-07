@@ -1,4 +1,4 @@
-# A Simple Contact Manager App with CRUD Operations Using Fake JSONPLACEHOLDER Rest API.
+# A Simple Contact Manager App with CRUD Operations Using React Js And Fake JSONPLACEHOLDER Rest API.
 - Fake JSONPLACEHOLDER Rest API - https://jsonplaceholder.typicode.com/users
 
 # Features
