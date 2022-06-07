@@ -8,7 +8,7 @@
 - Delete a contact, make a DELETE call to the above url. (Again this is a dummy call).
 
 # Demo-Link
-`<link>` : [Contact-Manager-App](ur hosted url)
+`<link>` : [Contact-Manager-App](https://contactmanagerapp03.netlify.app/)
 
 ## Available Scripts
 
